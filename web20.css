@@ -132,6 +132,7 @@ button {
   width: 80%;
   text-align: center;
   overflow: hidden;
+  font-size:0.9rem;
 
   background-color: rgb(199, 194, 194);
 }
