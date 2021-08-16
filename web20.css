@@ -58,7 +58,7 @@ a {
   align-items: center;
 }
 .inside {
-  width: 70%;
+  width: 90%;
   text-align: center;
   font-size: 2rem;
   color: white;
@@ -567,6 +567,18 @@ flex-direction: column;
   align-items:center;
 
 }
+  .box h2{
+  font-size:1.6rem;
+  
+  }
+  .box p{
+  font-size:0.8rem;
+  
+  }
+  .box i{
+  font-size:2rem;
+  
+  }
   .foo{
   font-size: 0.7rem !important;
 }
@@ -581,6 +593,7 @@ flex-direction: column;
 .box{
   width:70%;
 }
+  .box 
 .pbox{
   width:70%;
 
@@ -589,10 +602,10 @@ button{
   font-size: 15px;
 }
  h1{
-  font-size: 1.7rem;
+  font-size: 1.4rem;
 }
  p{
-  font-size: 0.8rem;
+  font-size: 0.6rem;
 }
 h3{
   font-size: 1.3rem;
