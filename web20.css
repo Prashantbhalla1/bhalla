@@ -551,7 +551,7 @@ flex-direction: column;
   }
 .rw{
   flex: 100%;
-  width:80%;
+  width:100%;
   margin: auto;
   display: flex;
   flex-direction: column;
