@@ -16,11 +16,7 @@ html{
   top: 0;
   color: white;
   display: flex;
-  background: linear-gradient(
-    to right,
-    rgba(54, 142, 243, 0.651),
-    rgba(88, 177, 250, 0.926)
-  );
+background-color: rgb(83, 201, 248); 
 
   padding: 10px 20px;
   z-index: 10;
@@ -86,7 +82,7 @@ button {
   justify-content: center;
 }
 .box i {
-  color: rgb(0, 89, 255);
+  color: rgb(83, 201, 248);
   font-size: 2.5rem;
 }
 
@@ -184,7 +180,7 @@ h3 {
   float: left;
   font-size: 2.5rem;
   margin-right: 25px;
-  color: rgb(55, 137, 231);
+  color: rgb(83, 201, 248);
 }
 .rbox p {
   text-align: start;
@@ -399,7 +395,7 @@ input[type="submit"]:hover{
   flex-wrap: wrap;
 
   width: 100%;
-  background-color:rgb(37, 149, 253);
+  background-color:rgb(83, 201, 248);
   color: white;
   margin-top: 35px;
 }
@@ -421,7 +417,7 @@ ol li b {
 
 footer {
   text-align: center;
-  background-color: black;
+  background-color: rgb(83, 201, 248);
   color: white;
   padding: 15px;
 }
@@ -464,10 +460,10 @@ footer {
 .link{
   text-align: center;
   font-size: 3rem;
-  color: rgb(90, 87, 255);
+  color: rgb(83, 201, 248);
 }
 .link i{
-  color: rgb(0, 60, 255);
+ color:rgb(83, 201, 248);
 }
 .link i:hover{
   font-size: 3.2rem;
@@ -574,6 +570,11 @@ flex-direction: column;
   .foo{
   font-size: 0.7rem !important;
 }
+  .head {
+ 
+  height: 50vh;
+  clip-path: polygon(100% 0, 100% 85%, 50% 100%, 0 85%, 0 0);
+}
 .list{
   margin:0px 35px;
 }
@@ -651,7 +652,7 @@ h3{
 
   }
   .ggggg{
-    background-color:teal;
+    background-color:rgb(83, 201, 248);
     color: white;
     font-size: 1.5rem;
    
